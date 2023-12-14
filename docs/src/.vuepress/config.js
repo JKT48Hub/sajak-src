@@ -10,7 +10,7 @@ module.exports = {
    */
   description: description,
 
-  base: '/sajak/docs/.vuepress/dist/',
+  base: '/sajak/',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
