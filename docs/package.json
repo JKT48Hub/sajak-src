@@ -1,0 +1,19 @@
+{
+  "name": "sajakjkt",
+  "version": "0.0.1",
+  "description": "Kumpulan sajak yang dibawakan oleh member JKT48",
+  "main": "index.js",
+  "authors": {
+    "name": "Rifki Ardiansyah",
+    "email": "rifkiardiansyah670@gmail.com"
+  },
+  "repository": "sajakjkt/sajakjkt",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
