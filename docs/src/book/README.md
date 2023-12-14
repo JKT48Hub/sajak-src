@@ -1,4 +1,4 @@
-> Projek ini bersifat open-source dan dirancang untuk membantu Anda menikmati kumpulan sajak yang dipersembahkan oleh anggota JKT48. Repositori untuk projek ini dapat ditemukan di Github.
+> Projek ini bersifat open-source dan dirancang untuk membantu Anda menikmati kumpulan sajak yang dipersembahkan oleh anggota JKT48. Repositori untuk projek ini dapat ditemukan di [Github](https://github.com/JKT48Hub/sajak).
 
 <!-- link -->
 
